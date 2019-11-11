@@ -52,6 +52,16 @@ layout: default
         {% endfor %}
       </ul>
       {% endif %}
+
+      {% if page.equipment %}
+      <h4 class="blue mt0 mb2 xs-center">Equipment</h4>
+      <ul itemprop="equipment">
+        <!-- list equipment needed for the recipe -->
+        {% for item in page.equipment %}
+        <li itemprop="recipeEquipment">{{ item | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </div>
     
     <div class="sm-col sm-col-6 lg-col-6">
