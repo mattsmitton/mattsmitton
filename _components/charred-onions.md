@@ -2,11 +2,10 @@
 
 layout: component
 title: "Charred Onions"
-# image: charred-onions.jpg
 tags: soup, bon-appetit
 
 ingredients:
-- 1 large onion, very thinly sliced (for the charred onion topping)
+- 1 large onion, very thinly sliced
 - 3 tablespoons vegetable oil (or other neutral oil)
 
 directions:
@@ -14,6 +13,3 @@ directions:
 - Add onion and cook, stirring often, until golden, 6–8 minutes.
 - Reduce heat to medium and cook, stirring occasionally, until onions are slightly charred and crisp, 14–16 minutes; season with salt.
 - Transfer onions to a plate; cover with foil to keep warm.
-
----
-These go great over Ash Reshteh, or just about anywhere else you want a sweet/salty/crispy/smokey topping.
