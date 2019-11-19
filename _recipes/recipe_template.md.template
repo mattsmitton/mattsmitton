@@ -1,0 +1,20 @@
+---
+
+layout: recipe
+title: "title"
+image: filename.jpg
+tags: tag1, tag2, work-in-progress
+
+ingredients:
+- ingredient 1
+
+equipment:
+- item 1
+
+directions:
+- step 1
+- step 2
+
+---
+
+Free form notes and intro to recipe
