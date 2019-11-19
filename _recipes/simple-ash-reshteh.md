@@ -22,7 +22,7 @@ ingredients:
 
 components:
 - Charred Onions
-- Kahsk Substitute
+- Kashk Substitute
 - Mint Oil
 
 equipment:
@@ -37,7 +37,7 @@ directions:
 - Add lentils and cook, stirring occasionally, until beans are creamy but still hold their shape, and lentils are tender, 25–35 minutes (the soup may look a bit thick, but don’t fret; the greens will release liquid when they’re added, thinning the soup out a bit).
 - Add spinach, cilantro, parsley, and dill and cook until greens are just wilted and have slightly darkened, 4–6 minutes.
 - Stir in lemon juice; season with salt and pepper.
-- Divide soup among bowls and pour a tablespoon or two of Kahsk Substitute over soup. Drizzle mint oil over soup, then top with charred onions.
+- Divide soup among bowls and pour a tablespoon or two of kashk Substitute over soup. Drizzle mint oil over soup, then top with charred onions.
 
 ---
 
@@ -45,7 +45,7 @@ I first fell in love with ash reshteh at a Persian culture festival in Irvine th
 Not knowing the name, it took me over a decade to find it again, and I was happy to discover the soup is easy to make, healthy, and just as delicious as I remembered it.
 
 I pulled this recipe from [Bon Appetit](https://www.bonappetit.com/recipe/beans-green-soup-with-yogurt-mint). While not completely authentic, it's close enough to satisfy my nostalgia on a weeknight.
-It's missing the linguini-like reshteh noodles and substitutes kahsk (a sun-dried fermented yogurt/whey) for a more easily accessible mixture of greek yogurt and buttermilk.
+It's missing the linguini-like reshteh noodles and substitutes kashk (a sun-dried fermented yogurt/whey) for a more easily accessible mixture of greek yogurt and buttermilk.
 
 If you don't have time to soak the beans and chickpeas the night before, pre-boil them separately for one hour. And don't skimp on the charred onions at the end, they really make the dish!
 

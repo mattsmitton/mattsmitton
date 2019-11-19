@@ -1,7 +1,7 @@
 ---
 
 layout: component
-title: "Kahsk Substitute"
+title: "Kashk Substitute"
 tags: soup, bon-appetit
 
 ingredients:
