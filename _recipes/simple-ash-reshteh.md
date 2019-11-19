@@ -40,8 +40,10 @@ directions:
 
 ---
 
-I first fell in love with Ash Reshteh at a Persian culture festival in Irvine that my Iranian neighbors brought me to.
-The soup is both easy to make, healthy, and supremely comforting. Don't skimp on the charred onions at the end, they really make the dish.
+I first fell in love with ash reshteh at a Persian culture festival in Irvine that my Iranian neighbors brought me to.
+It took me over a decade to find it again, and I was happy to find the soup is easy to make, healthy, and just as delicious as I remembered it.
+
 I pulled this recipe from [Bon Appetit](https://www.bonappetit.com/recipe/beans-green-soup-with-yogurt-mint). While not completely authentic, it's close enough to satisfy my nostalgia on a weeknight.
-It's missing the liguini-like reshteh noodles and substitutes kahsk (a sun-dried fermented yogurt/whey) for greek yogurt and buttermilk.
-You can leave out the dairy to keep it vegan (add a squeeze of lemon to replace the acid note).
+It's missing the liguini-like reshteh noodles and substitutes kahsk (a sun-dried fermented yogurt/whey) for more easily accessible greek yogurt and buttermilk.
+
+Don't skimp on the charred onions at the end, they really make the dish!
