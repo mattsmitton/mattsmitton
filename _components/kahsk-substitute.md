@@ -12,3 +12,5 @@ ingredients:
 directions:
 - Meanwhile, mix yogurt and buttermilk in a small bowl
 - Season with salt. (The mixture should have the consistency of heavy cream.)
+
+---

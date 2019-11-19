@@ -13,3 +13,5 @@ directions:
 - Add onion and cook, stirring often, until golden, 6–8 minutes.
 - Reduce heat to medium and cook, stirring occasionally, until onions are slightly charred and crisp, 14–16 minutes; season with salt.
 - Transfer onions to a plate; cover with foil to keep warm.
+
+---

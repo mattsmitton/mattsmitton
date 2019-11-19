@@ -13,3 +13,5 @@ directions:
 - Heat remaining 3 Tbsp. oil in a small skillet over medium heat.
 - Add mint powder and cook, stirring often, until mint oil is fragrant and slightly darkened, about 1 minute.
 - Transfer to a small bowl or measuring cup.
+
+---
