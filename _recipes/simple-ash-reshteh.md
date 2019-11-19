@@ -6,7 +6,6 @@ image: simple-ash-reshteh.jpg
 tags: soup, bon-appetit, work-in-progress
 
 ingredients:
-**Soup**
 - 3 tablespoons vegetable oil
 - 1 large onion, finely chopped
 - 3 garlic cloves, finely grated
@@ -19,29 +18,25 @@ ingredients:
 - 1 cup chopped parsley
 - ½ cup chopped dill
 - 2 tablespoons fresh lemon juice
-- Kosher salt; freshly ground pepper
-**Assembly**
-- 6 tablespoons vegetable oil, divided
-- 1 large onion, very thinly sliced
-- ⅓ cup whole-milk Greek yogurt
-- ¼ cup buttermilk
-- Kosher salt
-- 2 tablespoons dried ground mint
+- Kosher salt, freshly ground pepper to taste
+
+components:
+- Charred Onions
+- Kahsk Substitute
+- Mint Oil
 
 equipment:
 - Heavy 4-6 quart pot
 - Medium skillet (anything but non-stick, you want to use some high heat)
 
 directions:
-**Soup**
-- Heat oil in a large pot over medium. Add onion and cook, stirring occasionally, until golden brown and soft, 6–8 minutes. Add garlic, cranberry beans, chickpeas, and turmeric and cook, stirring, until fragrant, about 2 minutes. Add 8 cups cold water and bring to a boil. Reduce heat, bring to a simmer, and cook, stirring occasionally, until beans are halfway cooked (they should still be very al dente), 25–35 minutes. Add lentils and cook, stirring occasionally, until beans are creamy but still hold their shape, and lentils are tender, 25–35 minutes (the soup may look a bit thick, but don’t fret; the greens will release liquid when they’re added, thinning the soup out a bit).
-- Add spinach, cilantro, parsley, and dill and cook until greens are just wilted and have slightly darkened, 4–6 minutes. Stir in lemon juice; season with salt and pepper.
-
-**Assembly**
-- While soup is simmering, heat 3 Tbsp. oil in a medium skillet over medium-high. Add onion and cook, stirring often, until golden, 6–8 minutes. Reduce heat to medium and cook, stirring occasionally, until onions are slightly charred and crisp, 14–16 minutes; season with salt. Transfer onions to a plate; cover with foil to keep warm.
-- Meanwhile, mix yogurt and buttermilk in a small bowl; season with salt. (The mixture should have the consistency of heavy cream.)
-- Wipe out skillet and heat remaining 3 Tbsp. oil over medium. Add mint and cook, stirring often, until mint oil is fragrant and slightly darkened, about 1 minute. Transfer to a small bowl or measuring cup.
-- Divide soup among bowls and pour yogurt mixture over soup. Drizzle mint oil over soup, then top with fried onions.
+- Heat oil in a large pot over medium. Add finely chopped onion and cook, stirring occasionally, until golden brown and soft, 6–8 minutes.
+- Add garlic, cranberry beans, chickpeas, and turmeric and cook, stirring, until fragrant, about 2 minutes.
+- Add 8 cups cold water and bring to a boil. Reduce heat, bring to a simmer, and cook, stirring occasionally, until beans are halfway cooked (they should still be very al dente), 25–35 minutes.
+- Add lentils and cook, stirring occasionally, until beans are creamy but still hold their shape, and lentils are tender, 25–35 minutes (the soup may look a bit thick, but don’t fret; the greens will release liquid when they’re added, thinning the soup out a bit).
+- Add spinach, cilantro, parsley, and dill and cook until greens are just wilted and have slightly darkened, 4–6 minutes.
+- Stir in lemon juice; season with salt and pepper.
+- Divide soup among bowls and pour a tablespoon or two of Kahsk Substitute over soup. Drizzle mint oil over soup, then top with charred onions.
 
 ---
 
