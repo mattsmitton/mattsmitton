@@ -9,8 +9,8 @@ ingredients:
 - 3 tablespoons vegetable oil
 - 1 large onion, finely chopped
 - 3 garlic cloves, finely grated
-- ½ cup cranberry or navy beans, soaked overnight, drained
-- ½ cup dried chickpeas, soaked overnight, drained
+- ½ cup cranberry or navy beans, soaked overnight or boiled for 1 hour, drained
+- ½ cup dried chickpeas, soaked overnight or boiled for 1 hour, drained
 - 1 teaspoon ground turmeric
 - ½ cup green lentils, rinsed
 - 5 ounces baby spinach (about 7 cups), chopped
@@ -47,4 +47,4 @@ It took me over a decade to find it again, and I was happy to find the soup is e
 I pulled this recipe from [Bon Appetit](https://www.bonappetit.com/recipe/beans-green-soup-with-yogurt-mint). While not completely authentic, it's close enough to satisfy my nostalgia on a weeknight.
 It's missing the liguini-like reshteh noodles and substitutes kahsk (a sun-dried fermented yogurt/whey) for more easily accessible greek yogurt and buttermilk.
 
-Don't skimp on the charred onions at the end, they really make the dish!
+If you don't have time to soak the beans and chickpeas the night before, pre-boil them separately for one hour. And don't skimp on the charred onions at the end, they really make the dish!
