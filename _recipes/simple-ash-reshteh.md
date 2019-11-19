@@ -28,6 +28,7 @@ components:
 equipment:
 - Heavy 4-6 quart pot
 - Medium skillet (anything but non-stick, you want to use some high heat)
+- Spice grinder or mortar and pestle
 
 directions:
 - Heat oil in a large pot over medium. Add finely chopped onion and cook, stirring occasionally, until golden brown and soft, 6–8 minutes.
