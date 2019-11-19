@@ -42,7 +42,7 @@ directions:
 ---
 
 I first fell in love with ash reshteh at a Persian culture festival in Irvine that my Iranian neighbors brought me to.
-It took me over a decade to find it again, and I was happy to find the soup is easy to make, healthy, and just as delicious as I remembered it.
+Not knowing the name, it took me over a decade to find it again, and I was happy to discover the soup is easy to make, healthy, and just as delicious as I remembered it.
 
 I pulled this recipe from [Bon Appetit](https://www.bonappetit.com/recipe/beans-green-soup-with-yogurt-mint). While not completely authentic, it's close enough to satisfy my nostalgia on a weeknight.
 It's missing the linguini-like reshteh noodles and substitutes kahsk (a sun-dried fermented yogurt/whey) for a more easily accessible mixture of greek yogurt and buttermilk.
