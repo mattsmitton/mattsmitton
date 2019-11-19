@@ -35,6 +35,7 @@ directions:
 - Add garlic, cranberry beans, chickpeas, and turmeric and cook, stirring, until fragrant, about 2 minutes.
 - Add 8 cups cold water and bring to a boil. Reduce heat, bring to a simmer, and cook, stirring occasionally, until beans are halfway cooked (they should still be very al dente), 25–35 minutes.
 - Add lentils and cook, stirring occasionally, until beans are creamy but still hold their shape, and lentils are tender, 25–35 minutes (the soup may look a bit thick, but don’t fret; the greens will release liquid when they’re added, thinning the soup out a bit).
+- While the soup simmers, prepare the toppings (see component recipes below)
 - Add spinach, cilantro, parsley, and dill and cook until greens are just wilted and have slightly darkened, 4–6 minutes.
 - Stir in lemon juice; season with salt and pepper.
 - Divide soup among bowls and pour a tablespoon or two of kashk Substitute over soup. Drizzle mint oil over soup, then top with charred onions.
