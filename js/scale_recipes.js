@@ -107,7 +107,7 @@ function scaleIngredient(bareIngredient, quantity, scale = 1){
 }
 
 function preprocessIngredients(){
-    let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient]', 'li[itemprop=ingredient]')
+    let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient], li[itemprop=ingredient]')
     let quantityArray = [];
     let ingredientBaseArray = [];
     let ingredientQuantity;
@@ -133,7 +133,7 @@ function preprocessIngredients(){
 }
 
 function scaleRecipe(scale = 1){
-    let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient]', 'li[itemprop=ingredient]')
+    let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient], li[itemprop=ingredient]')
     let quantities = document.getElementById('ingredient-quantities').dataset.quantities.split(';');
     let bases = document.getElementById('ingredient-bases').dataset.ingredients.split(';');
     for (let i = 0; i < ingredients.length; i++) {
