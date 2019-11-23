@@ -107,7 +107,7 @@ function scaleIngredient(bareIngredient, quantity, scale = 1){
 }
 
 function preprocessIngredients(){
-    let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient]')
+    let ingredients = document.querySelectorAll('li[itemprop=recipeIngredient]', 'li[itemprop=ingredient]')
     let quantityArray = [];
     let ingredientBaseArray = [];
     let ingredientQuantity;
